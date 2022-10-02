@@ -35,3 +35,16 @@ Gambar akan ditampilkan apa adanya sesuai dengan ukuran aslinya. Untuk mengatur 
 Contoh < img src="file image" width="200" title="title image">.<p>
 Ini adalah tampilannya
 ![image](/screenshot/ss4.png)
+
+### Menambahkan Hyperlink
+Buat satu file lagi kemudian isi dokumen tersebut dengan tag
+html dasar.<p>
+Kode tag yang di gunakan adalah<p>
+< nav>
+< a href="file HTML utama">title link HTML utama< /a>
+< a href="file HTML halaman kedua">title link HTML halaman kedua< /a>
+< a href="http://www.google.com">Halaman Web Eksternal Google< /a>
+< /nav>
+< hr> <p>
+Ini adalah tampilannya
+![image](/screenshot/ss5.png)
