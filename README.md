@@ -38,7 +38,7 @@ Ini adalah tampilannya
 
 ### 5. Menambahkan Hyperlink
 Buat satu file lagi kemudian isi dokumen tersebut dengan tag
-html dasar.<p>
+html dasar, boleh mengcopy dari halaman utama.<p>
 Kode tag yang di gunakan adalah<p>
 < nav>
 < a href="file HTML utama">title link HTML utama< /a>
