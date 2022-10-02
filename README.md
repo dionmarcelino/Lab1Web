@@ -30,4 +30,4 @@ Berikut tag yang digunakan untuk pemformatan teks
 
 ### Menyisipkan Gambar
 Siapkan gambar yang akan disisipkan pada halaman web, kemudian simpan file gambar tersebut satu folder dengan file dokumen html. Atau bisa juga menyisipkan gambar dari website external.<p>
-Kode tag yang digunakan untuk menambahkan gambar adalah <img src="file gambar" title="title gambar">
+Kode tag yang digunakan untuk menambahkan gambar adalah < img src="file gambar" title="title gambar">
