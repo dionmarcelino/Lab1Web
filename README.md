@@ -32,6 +32,6 @@ Berikut tag yang digunakan untuk pemformatan teks
 Siapkan gambar yang akan disisipkan pada halaman web, kemudian simpan file gambar tersebut satu folder dengan file dokumen html. Atau bisa juga menyisipkan gambar dari website external.<p>
 Kode tag yang digunakan untuk menambahkan gambar adalah < img src="file imagae" title="title image">.<p>
 Gambar akan ditampilkan apa adanya sesuai dengan ukuran aslinya. Untuk mengatur ukuran gambar, dapat digunakan atribut witdh dan height dengan nilai integer yang disesuaikan.<p>
-Contoh < img src="file image" width="200" title="title image">.<p.>
+Contoh < img src="file image" width="200" title="title image">.<p>
 Ini adalah tampilannya
 ![image](/screenshot/ss4.png)
