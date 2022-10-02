@@ -40,11 +40,11 @@ Ini adalah tampilannya
 Buat satu file lagi kemudian isi dokumen tersebut dengan tag
 html dasar, boleh mengcopy dari halaman utama.<p>
 Kode tag yang di gunakan adalah<p>
-< nav>
-< a href="file HTML utama">title link HTML utama< /a>
-< a href="file HTML halaman kedua">title link HTML halaman kedua< /a>
-< a href="http://www.google.com">Halaman Web Eksternal Google< /a>
-< /nav>
+< nav> <p>
+< a href="file HTML utama">title link HTML utama< /a> <p>
+< a href="file HTML halaman kedua">title link HTML halaman kedua< /a> <p>
+< a href="http://www.google.com">Halaman Web Eksternal Google< /a> <p>
+< /nav> <p>
 < hr> <p>
 Ini adalah tampilannya
 ![image](/screenshot/ss5.png)
