@@ -5,7 +5,7 @@
 Kode tag untuk membuat paragraf adalah `<p>`<p>
 Ini adalah tampilannya
 ![image1](/screenshot/ss1.png)
-<p>Kode tag untuk mengatur atribut paragraf adalah `(align => justify, left, right, dan center)`
+kode tag untuk mengatur atribut paragraf adalah `(align => justify, left, right, dan center)`
 
 ### 2. Menambahkan Judul
 Judul memiliki 6 level yaitu h1 sampai h6.<p>
